@@ -43,8 +43,8 @@ Os títulos possuem linhas automáticas
 
 Utilizar #, até seis níveis representado pela quantidade de caracteres
 
-- Nível 1 #
-- Nível 2 ##
+Nível 1 #  
+Nível 2 ##  
 ...
 
 ## Tabela
