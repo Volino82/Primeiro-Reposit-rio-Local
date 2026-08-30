@@ -80,5 +80,6 @@ Exemplo de Citação
 > Só sei  
 > que nada sei!
 
-Brabíssimo né não?
+Brabíssimo né não?  
+Ps.: Também da pra fazer alterações pelo celular. App instalado pela Playstore.
 
